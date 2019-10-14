@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.hcl.dna.hackathon.HclDnaHackathonApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.146 s <<< FAILURE! - in com.hcl.dna.hackathon.HclDnaHackathonApplicationTests
+initializationError(com.hcl.dna.hackathon.HclDnaHackathonApplicationTests)  Time elapsed: 0.004 s  <<< ERROR!
+org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.test.context.SpringBootContextLoader]: Unresolvable class definition; nested exception is java.lang.NoClassDefFoundError: org/springframework/context/ApplicationContextException
+Caused by: java.lang.NoClassDefFoundError: org/springframework/context/ApplicationContextException
+Caused by: java.lang.ClassNotFoundException: org.springframework.context.ApplicationContextException
+

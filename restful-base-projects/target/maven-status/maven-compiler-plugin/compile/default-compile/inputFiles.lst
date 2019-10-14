@@ -1,0 +1,12 @@
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/controller/ProductController.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/exception/ExceptionResponse.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/config/SwaggerConfig.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/repository/ProductRepository.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/service/ProductServiceImpl.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/HclDnaHackathonApplication.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/exception/ProductNotFoundException.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/config/SimpleCORSFilter.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/controller/CustomErrorController.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/service/ProductService.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/model/Product.java
+/Users/fkhader/gitHub/restful-base-project/src/main/java/com/hcl/dna/hackathon/exception/CustomizedResponseEntityExceptionHandler.java
